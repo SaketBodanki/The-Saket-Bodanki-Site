@@ -1,0 +1,86 @@
+body {
+  margin: 0;
+  text-align: center;
+  background-color: #FFF9CA;
+}
+
+h1 {
+  margin: 0;
+  font-family: fantasy;
+  font-size: 75px;
+  color: #041C32;
+}
+
+h3 {
+  margin-top: 0;
+  margin-bottom: 20;
+  font-family: 'Smooch', cursive;
+  font-size: 50px;
+  color: #041C32;
+}
+
+p {
+  margin-top: 0;
+  margin-bottom: 20;
+  font-family: fantasy;
+  font-size: 25px;
+  color: #041C32;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+}
+
+.GetInTouch {
+  margin: 0;
+}
+
+.Talk {
+  margin: 0;
+}
+
+.copyright {
+  margin-top: 10;
+}
+
+h2 {
+  font-family: 'Smooch', cursive;
+  font-size: 30px;
+}
+
+.top-container {
+  position: relative;
+  padding-top: 100px;
+}
+
+.birds {
+  position: absolute;
+  right: 825px;
+  top: 100px;
+}
+
+.middle-container {
+}
+
+.bottom-container {
+}
+
+.Coding {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.Drawing {
+  width: 30%;
+  float: right;
+  margin-left: 30px;
+}
+
+.Food {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
